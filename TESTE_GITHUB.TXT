@@ -2,3 +2,4 @@ PRIMEIRO ARQUIVO .TXT NO GITHUB
 
 alterado o arquivo quando ele estava no repositorio local
 
+teste para o clone
